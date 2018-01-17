@@ -4,4 +4,4 @@
 
 
 # Description
-Solutions and related tutorials  for the Linux Shell Bash Challenges on HackerRank
+Solutions and related tutorials  for the Linux Shell Challenges on HackerRank
