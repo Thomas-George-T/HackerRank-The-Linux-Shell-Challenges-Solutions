@@ -6,10 +6,10 @@
 ## Description
 Solutions and related resoruces for the Linux Shell Challenges on HackerRank
 
-### Resources/Tutorials
+## Resources/Tutorials
 [Resources.md](https://github.com/tgt555/HackkerRank-The-Linux-Shell-Challenges-Solutions/blob/master/Resources.md)
 
-### Bash Challenges
+## Bash Challenges
 
 Challenges | Solutions
 ------------ | -------------
