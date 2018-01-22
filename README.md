@@ -1,5 +1,7 @@
 <p align="center">  
-        <img height=85 src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg"> 
+	<a href="https://www.hackerrank.com/Tgt555">
+        <img height=80 src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg"> 
+    </a>
 </p>
 
 
@@ -23,4 +25,4 @@ Challenges | Solutions
 [More on Conditionals](https://www.hackerrank.com/challenges/bash-tutorials---more-on-conditionals/problem) | [Solution.sh](https://github.com/tgt555/HackkerRank-The-Linux-Shell-Challenges-Solutions/blob/master/Challenges/Bash/More%20on%20Conditionals.sh)
 [Arithmetic Operations](https://www.hackerrank.com/challenges/bash-tutorials---arithmetic-operations/problem) | [Solution.sh](https://github.com/tgt555/HackkerRank-The-Linux-Shell-Challenges-Solutions/blob/master/Challenges/Bash/Arithmetic%20Operations.sh)
 [Compute the Average](https://www.hackerrank.com/challenges/bash-tutorials---compute-the-average/problem) | [Solution.sh](https://github.com/tgt555/HackkerRank-The-Linux-Shell-Challenges-Solutions/blob/master/Challenges/Bash/Compute%20the%20average.sh)
-[Functions and Fractals - Recursive Trees - Bash!](https://www.hackerrank.com/challenges/fractal-trees-all/problem) | Will do it when I stop being mad at the problem statement creator
+[Functions and Fractals - Recursive Trees - Bash!](https://www.hackerrank.com/challenges/fractal-trees-all/problem) | PENDING
