@@ -5,13 +5,13 @@
 </p>
 
 
-# Description
+## Description
 Solutions and related resources for the Linux Shell Challenges on HackerRank
 
-# Resources,Tutorials & Relevant Materials
+## Resources,Tutorials & Relevant Materials
 [Resources](https://github.com/tgt555/HackkerRank-The-Linux-Shell-Challenges-Solutions/blob/master/Resources.md)
 
-# Bash Challenges
+## Bash Challenges
 
 Challenges | Solutions
 ------------ | -------------
