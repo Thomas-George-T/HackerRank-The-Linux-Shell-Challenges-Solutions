@@ -6,7 +6,7 @@
 
 
 # Description
-Solutions and related resoruces for the Linux Shell Challenges on HackerRank
+Solutions and related resources for the Linux Shell Challenges on HackerRank
 
 # Resources,Tutorials & Relevant Materials
 [Resources](https://github.com/tgt555/HackkerRank-The-Linux-Shell-Challenges-Solutions/blob/master/Resources.md)
