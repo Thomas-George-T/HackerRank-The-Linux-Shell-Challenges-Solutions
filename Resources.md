@@ -7,3 +7,5 @@
 * [Catching user input](http://tldp.org/LDP/Bash-Beginners-Guide/html/sect_08_02.html)
 * [Loops in Bash](https://www.cyberciti.biz/faq/bash-for-loop/)
 
+## Text Processing 
+* [Cut Command](https://www.geeksforgeeks.org/cut-command-linux-examples/)

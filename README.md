@@ -26,5 +26,10 @@ Solutions and related resources for the Linux Shell Challenges on HackerRank
 | 10|[Compute the Average](https://www.hackerrank.com/challenges/bash-tutorials---compute-the-average/problem) | [Solution.sh](https://github.com/tgt555/HackkerRank-The-Linux-Shell-Challenges-Solutions/blob/master/Challenges/Bash/Compute%20the%20average.sh)
 | 11|[Functions and Fractals - Recursive Trees - Bash!](https://www.hackerrank.com/challenges/fractal-trees-all/problem) | PENDING
 
+## Text Processing
+| Number | Challenge | Solutions |
+|:------:|-----------|:---------:|
+|1|[Cut #!1](https://www.hackerrank.com/challenges/text-processing-cut-1/problem) | [Solution]() |
+
 ## Resources,Tutorials & Relevant Materials
 [Resources](https://github.com/tgt555/HackkerRank-The-Linux-Shell-Challenges-Solutions/blob/master/Resources.md)
