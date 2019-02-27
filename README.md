@@ -33,7 +33,8 @@ Solutions and related resources for the Linux Shell Challenges on HackerRank
 |1|[Cut #1](https://www.hackerrank.com/challenges/text-processing-cut-1/problem) | [Solution](https://github.com/Thomas-George-T/HackerRank-The-Linux-Shell-Challenges-Solutions/blob/master/Challenges/Text%20Processing/Cut%20%231.sh) |
 |2|[Cut #2](https://www.hackerrank.com/challenges/text-processing-cut-2/problem) | [Solution](https://github.com/Thomas-George-T/HackerRank-The-Linux-Shell-Challenges-Solutions/blob/master/Challenges/Text%20Processing/Cut%20%232.sh) |
 |3|[Cut #3](https://www.hackerrank.com/challenges/text-processing-cut-3/problem) | [Solution](https://github.com/Thomas-George-T/HackerRank-The-Linux-Shell-Challenges-Solutions/blob/master/Challenges/Text%20Processing/Cut%20%233.sh) |
-|4|[Cut #4](https://www.hackerrank.com/challenges/text-processing-cut-4/problem) | [Solution]() |
+|4|[Cut #4](https://www.hackerrank.com/challenges/text-processing-cut-4/problem) | [Solution](https://github.com/Thomas-George-T/HackerRank-The-Linux-Shell-Challenges-Solutions/blob/master/Challenges/Text%20Processing/Cut%20%234%20.sh) |
+|5|[Cut #5](https://www.hackerrank.com/challenges/text-processing-cut-5/problem) | [Solution](https://github.com/Thomas-George-T/HackerRank-The-Linux-Shell-Challenges-Solutions/blob/master/Challenges/Text%20Processing/Cut%20%235%20.sh) |
 
 ## Resources,Tutorials & Relevant Materials
 
