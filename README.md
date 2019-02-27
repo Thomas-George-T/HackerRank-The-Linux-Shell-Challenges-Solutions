@@ -27,9 +27,13 @@ Solutions and related resources for the Linux Shell Challenges on HackerRank
 | 11|[Functions and Fractals - Recursive Trees - Bash!](https://www.hackerrank.com/challenges/fractal-trees-all/problem) | PENDING
 
 ## Text Processing
+
 | Number | Challenge | Solutions |
 |:------:|-----------|:---------:|
-|1|[Cut #!1](https://www.hackerrank.com/challenges/text-processing-cut-1/problem) | [Solution]() |
+|1|[Cut #1](https://www.hackerrank.com/challenges/text-processing-cut-1/problem) | [Solution](https://github.com/Thomas-George-T/HackerRank-The-Linux-Shell-Challenges-Solutions/blob/master/Challenges/Text%20Processing/Cut%20%231.sh) |
+|2|[Cut #2](https://www.hackerrank.com/challenges/text-processing-cut-2/problem) | [Solution]() |
+|3|[Cut #3](https://www.hackerrank.com/challenges/text-processing-cut-3/problem) | [Solution]() |
 
 ## Resources,Tutorials & Relevant Materials
+
 [Resources](https://github.com/tgt555/HackkerRank-The-Linux-Shell-Challenges-Solutions/blob/master/Resources.md)
