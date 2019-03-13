@@ -42,7 +42,8 @@ Solutions and related resources for the Linux Shell Challenges on HackerRank
 |10|[Head of a Text File #1](https://www.hackerrank.com/challenges/text-processing-head-1/problem) | [Solution](https://github.com/Thomas-George-T/HackerRank-The-Linux-Shell-Challenges-Solutions/blob/master/Challenges/Text%20Processing/Head%20of%20a%20Text%20File%20%231.sh) |
 |11|[Head of a Text File #2](https://www.hackerrank.com/challenges/text-processing-head-2/problem) | [Solution](https://github.com/Thomas-George-T/HackerRank-The-Linux-Shell-Challenges-Solutions/blob/master/Challenges/Text%20Processing/Head%20of%20a%20Text%20File%20%232.sh) |
 |12|[Middle of a Text File](https://www.hackerrank.com/challenges/text-processing-in-linux---the-middle-of-a-text-file/problem) | [Solution](https://github.com/Thomas-George-T/HackerRank-The-Linux-Shell-Challenges-Solutions/blob/master/Challenges/Text%20Processing/Middle%20of%20a%20Text%20File.sh) |
-|13|[Tail of a Text File #1](https://www.hackerrank.com/challenges/text-processing-tail-1/problem) | []
+|13|[Tail of a Text File #1](https://www.hackerrank.com/challenges/text-processing-tail-1/problem) | [Solution](https://github.com/Thomas-George-T/HackerRank-The-Linux-Shell-Challenges-Solutions/blob/master/Challenges/Text%20Processing/Tail%20of%20a%20Text%20File%20%231.sh) |
+|14|[Tail of a Text File #2](https://www.hackerrank.com/challenges/text-processing-tail-2/problem) | [Solution]() |
 
 ## Resources,Tutorials & Relevant Materials
 
