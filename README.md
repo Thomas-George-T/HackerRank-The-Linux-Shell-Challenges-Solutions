@@ -45,7 +45,7 @@ Solutions and related resources for the Linux Shell Challenges on HackerRank
 |13|[Tail of a Text File #1](https://www.hackerrank.com/challenges/text-processing-tail-1/problem) | [Solution](https://github.com/Thomas-George-T/HackerRank-The-Linux-Shell-Challenges-Solutions/blob/master/Challenges/Text%20Processing/Tail%20of%20a%20Text%20File%20%231.sh) |
 |14|[Tail of a Text File #2](https://www.hackerrank.com/challenges/text-processing-tail-2/problem) | [Solution](https://github.com/Thomas-George-T/HackerRank-The-Linux-Shell-Challenges-Solutions/blob/master/Challenges/Text%20Processing/Tail%20of%20a%20Text%20File%20%232.sh) |
 |15|['Tr' Command #1](https://www.hackerrank.com/challenges/text-processing-tr-1/problem) | [Solution](https://github.com/Thomas-George-T/HackerRank-The-Linux-Shell-Challenges-Solutions/blob/master/Challenges/Text%20Processing/'Tr'%20Command%20%231.sh) |
-|16|['Tr' Command #2](https://www.hackerrank.com/challenges/text-processing-tr-2/problem) | [Solution]() |
+|16|['Tr' Command #2](https://www.hackerrank.com/challenges/text-processing-tr-2/problem) | [Solution](https://github.com/Thomas-George-T/HackerRank-The-Linux-Shell-Challenges-Solutions/blob/master/Challenges/Text%20Processing/'Tr'%20Command%20%232.sh) |
 
 ## Resources,Tutorials & Relevant Materials
 
