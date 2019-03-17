@@ -49,7 +49,8 @@ Solutions and related resources for the Linux Shell Challenges on HackerRank
 |17|['Tr' Command #3](https://www.hackerrank.com/challenges/text-processing-tr-3/problem) | [Solution](https://github.com/Thomas-George-T/HackerRank-The-Linux-Shell-Challenges-Solutions/blob/master/Challenges/Text%20Processing/'Tr'%20Command%20%233.sh) |
 |18|[Sort Command #1](https://www.hackerrank.com/challenges/text-processing-sort-1/problem) | [Solution](https://github.com/Thomas-George-T/HackerRank-The-Linux-Shell-Challenges-Solutions/blob/master/Challenges/Text%20Processing/Sort%20Command%20%231.sh) |
 |19|[Sort Command #2](https://www.hackerrank.com/challenges/text-processing-sort-2/problem) | [Solution](https://github.com/Thomas-George-T/HackerRank-The-Linux-Shell-Challenges-Solutions/blob/master/Challenges/Text%20Processing/Sort%20Command%20%232.sh) |
-|20|[Sort Command #3](https://www.hackerrank.com/challenges/text-processing-sort-3/problem) | [Solution]() |
+|20|[Sort Command #3](https://www.hackerrank.com/challenges/text-processing-sort-3/problem) | [Solution](https://github.com/Thomas-George-T/HackerRank-The-Linux-Shell-Challenges-Solutions/blob/master/Challenges/Text%20Processing/Sort%20Command%20%233.sh) |
+|21|[Sort Command #4](https://www.hackerrank.com/challenges/text-processing-sort-4/problem) | [Solution]( |)
 
 ## Resources,Tutorials & Relevant Materials
 
