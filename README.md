@@ -52,7 +52,7 @@ Solutions and related resources for the Linux Shell Challenges on HackerRank
 |20|[Sort Command #3](https://www.hackerrank.com/challenges/text-processing-sort-3/problem) | [Solution](https://github.com/Thomas-George-T/HackerRank-The-Linux-Shell-Challenges-Solutions/blob/master/Challenges/Text%20Processing/Sort%20Command%20%233.sh) |
 |21|[Sort Command #4](https://www.hackerrank.com/challenges/text-processing-sort-4/problem) | [Solution](https://github.com/Thomas-George-T/HackerRank-The-Linux-Shell-Challenges-Solutions/blob/master/Challenges/Text%20Processing/Sort%20Command%20%234.sh) |
 |22|[Sort Command #5](https://www.hackerrank.com/challenges/text-processing-sort-5/problem) | [Solution](https://github.com/Thomas-George-T/HackerRank-The-Linux-Shell-Challenges-Solutions/blob/master/Challenges/Text%20Processing/Sort%20Command%20%235.sh) |
-|23|[Sort Command #6](https://www.hackerrank.com/challenges/text-processing-sort-6/problem) | [Solution]() |
+|23|[Sort Command #6](https://www.hackerrank.com/challenges/text-processing-sort-6/problem) | [Solution](https://github.com/Thomas-George-T/HackerRank-The-Linux-Shell-Challenges-Solutions/blob/master/Challenges/Text%20Processing/Sort%20command%20%236.sh) |
 
 ## Resources,Tutorials & Relevant Materials
 
