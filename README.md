@@ -55,7 +55,8 @@ Solutions and related resources for the Linux Shell Challenges on HackerRank
 |23|[Sort Command #6](https://www.hackerrank.com/challenges/text-processing-sort-6/problem) | [Solution](https://github.com/Thomas-George-T/HackerRank-The-Linux-Shell-Challenges-Solutions/blob/master/Challenges/Text%20Processing/Sort%20command%20%236.sh) |
 |24|[Sort Command #7](https://www.hackerrank.com/challenges/text-processing-sort-7/problem) | [Solution](https://github.com/Thomas-George-T/HackerRank-The-Linux-Shell-Challenges-Solutions/blob/master/Challenges/Text%20Processing/Sort%20command%20%237.sh) |
 |25|['Uniq' Command #1](https://www.hackerrank.com/challenges/text-processing-in-linux-the-uniq-command-1/problem) | [Solution](https://github.com/Thomas-George-T/HackerRank-The-Linux-Shell-Challenges-Solutions/blob/master/Challenges/Text%20Processing/'Uniq'%20Command%20%231.sh) |
-|26|['Uniq' Command #2](https://www.hackerrank.com/challenges/text-processing-in-linux-the-uniq-command-2/problem) | [Solution]() |
+|26|['Uniq' Command #2](https://www.hackerrank.com/challenges/text-processing-in-linux-the-uniq-command-2/problem) | [Solution](https://github.com/Thomas-George-T/HackerRank-The-Linux-Shell-Challenges-Solutions/blob/master/Challenges/Text%20Processing/'Uniq'%20Command%20%232.sh) |
+|27|['Uniq' Command #3](https://www.hackerrank.com/challenges/text-processing-in-linux-the-uniq-command-3/problem)| [Solution]()
 
 ## Resources,Tutorials & Relevant Materials
 
