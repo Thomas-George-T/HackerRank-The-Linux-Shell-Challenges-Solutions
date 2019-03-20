@@ -12,3 +12,5 @@
 * [Head](https://www.geeksforgeeks.org/head-command-linux-examples/)
 * [Tr](https://www.youtube.com/watch?v=RNuh1rqKIbg&feature=youtu.be)
 * [Sort](https://www.thegeekstuff.com/2013/04/sort-files/)
+* [Uniq video](https://youtu.be/VRrd9ErU13w)
+* [Uniq](https://www.thegeekstuff.com/2013/05/uniq-command-examples/)
