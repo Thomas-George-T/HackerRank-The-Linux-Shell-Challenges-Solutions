@@ -1,6 +1,9 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![GitHub](https://img.shields.io/github/license/Thomas-George-T/HackerRank-The-Linux-Shell-Challenges-Solutions.svg)
+![GitHub top language](https://img.shields.io/github/languages/top/Thomas-George-T/HackerRank-The-Linux-Shell-Challenges-Solutions.svg)
+![GitHub last commit](https://img.shields.io/github/last-commit/Thomas-George-T/HackerRank-The-Linux-Shell-Challenges-Solutions.svg)
 
 <p align="center">  
+	<br>
 	<a href="https://www.hackerrank.com/Thomas_George_T">
         <img height=100 src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg"> 
     	</a>
@@ -56,7 +59,8 @@ Solutions and related resources for the Linux Shell Challenges on HackerRank
 |24|[Sort Command #7](https://www.hackerrank.com/challenges/text-processing-sort-7/problem) | [Solution](https://github.com/Thomas-George-T/HackerRank-The-Linux-Shell-Challenges-Solutions/blob/master/Challenges/Text%20Processing/Sort%20command%20%237.sh) |
 |25|['Uniq' Command #1](https://www.hackerrank.com/challenges/text-processing-in-linux-the-uniq-command-1/problem) | [Solution](https://github.com/Thomas-George-T/HackerRank-The-Linux-Shell-Challenges-Solutions/blob/master/Challenges/Text%20Processing/'Uniq'%20Command%20%231.sh) |
 |26|['Uniq' Command #2](https://www.hackerrank.com/challenges/text-processing-in-linux-the-uniq-command-2/problem) | [Solution](https://github.com/Thomas-George-T/HackerRank-The-Linux-Shell-Challenges-Solutions/blob/master/Challenges/Text%20Processing/'Uniq'%20Command%20%232.sh) |
-|27|['Uniq' Command #3](https://www.hackerrank.com/challenges/text-processing-in-linux-the-uniq-command-3/problem)| [Solution]()
+|27|['Uniq' Command #3](https://www.hackerrank.com/challenges/text-processing-in-linux-the-uniq-command-3/problem)| [Solution](https://github.com/Thomas-George-T/HackerRank-The-Linux-Shell-Challenges-Solutions/blob/master/Challenges/Text%20Processing/'Uniq'%20Command%20%233.sh) |
+|28|['Uniq' Command #4](https://www.hackerrank.com/challenges/text-processing-in-linux-the-uniq-command-4/problem) | [Solution]() |
 
 ## Resources,Tutorials & Relevant Materials
 
