@@ -62,6 +62,6 @@ Solutions and related resources for the Linux Shell Challenges on HackerRank
 |27|['Uniq' Command #3](https://www.hackerrank.com/challenges/text-processing-in-linux-the-uniq-command-3/problem)| [Solution](https://github.com/Thomas-George-T/HackerRank-The-Linux-Shell-Challenges-Solutions/blob/master/Challenges/Text%20Processing/'Uniq'%20Command%20%233.sh) |
 |28|['Uniq' Command #4](https://www.hackerrank.com/challenges/text-processing-in-linux-the-uniq-command-4/problem) | [Solution](https://github.com/Thomas-George-T/HackerRank-The-Linux-Shell-Challenges-Solutions/blob/master/Challenges/Text%20Processing/'Uniq'%20Command%20%234.sh) |
 
-## Resources,Tutorials & Relevant Materials
+## References 
 
-[Resources](https://github.com/tgt555/HackkerRank-The-Linux-Shell-Challenges-Solutions/blob/master/Resources.md)
+* [Resources,Tutorials & Relevant Materials](https://github.com/tgt555/HackkerRank-The-Linux-Shell-Challenges-Solutions/blob/master/Resources.md)
