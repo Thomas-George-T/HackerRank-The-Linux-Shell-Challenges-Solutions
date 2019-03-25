@@ -17,16 +17,16 @@ Solutions and related resources for the Linux Shell Challenges on HackerRank
 
 | Number | Challenges | Solutions |
 |:------:|------------|:---------:|
-| 1 |[Let's Echo!](https://www.hackerrank.com/challenges/bash-tutorials-lets-echo/problem) | [Solution.sh](https://github.com/tgt555/HackkerRank-The-Linux-Shell-Challenges-Solutions/blob/master/Challenges/Bash/Let's%20Echo.sh)
-| 2 |[Looping and Skipping](https://www.hackerrank.com/challenges/bash-tutorials---looping-and-skipping/problem) | [Solution.sh](https://github.com/tgt555/HackkerRank-The-Linux-Shell-Challenges-Solutions/blob/master/Challenges/Bash/Looping%20and%20Skipping.sh)
-| 3 |[A Personalized Echo](https://www.hackerrank.com/challenges/bash-tutorials---a-personalized-echo/problem) | [Solution.sh](https://github.com/tgt555/HackkerRank-The-Linux-Shell-Challenges-Solutions/blob/master/Challenges/Bash/A%20Personalized%20Echo.sh)
-| 4 |[Looping with numbers](https://www.hackerrank.com/challenges/bash-tutorials---looping-with-numbers/problem) |  [Solution.sh](https://github.com/tgt555/HackkerRank-The-Linux-Shell-Challenges-Solutions/blob/master/Challenges/Bash/Looping%20with%20Numbers.sh)
-| 5 |[The World of Numbers](https://www.hackerrank.com/challenges/bash-tutorials---the-world-of-numbers/problem)	| [Solution.sh](https://github.com/tgt555/HackkerRank-The-Linux-Shell-Challenges-Solutions/blob/master/Challenges/Bash/The%20World%20of%20Numbers.sh)
-| 6 |[Comparing Numbers](https://www.hackerrank.com/challenges/bash-tutorials---comparing-numbers/problem) | [Solution.sh](https://github.com/tgt555/HackkerRank-The-Linux-Shell-Challenges-Solutions/blob/master/Challenges/Bash/Comparing%20Numbers.sh)
-| 7 |[Getting started with conditionals](https://www.hackerrank.com/challenges/bash-tutorials---getting-started-with-conditionals/problem) | [Solution.sh](https://github.com/tgt555/HackkerRank-The-Linux-Shell-Challenges-Solutions/blob/master/Challenges/Bash/Getting%20started%20with%20conditionals.sh)
-| 8 |[More on Conditionals](https://www.hackerrank.com/challenges/bash-tutorials---more-on-conditionals/problem) | [Solution.sh](https://github.com/tgt555/HackkerRank-The-Linux-Shell-Challenges-Solutions/blob/master/Challenges/Bash/More%20on%20Conditionals.sh)
-| 9 |[Arithmetic Operations](https://www.hackerrank.com/challenges/bash-tutorials---arithmetic-operations/problem) | [Solution.sh](https://github.com/tgt555/HackkerRank-The-Linux-Shell-Challenges-Solutions/blob/master/Challenges/Bash/Arithmetic%20Operations.sh)
-| 10|[Compute the Average](https://www.hackerrank.com/challenges/bash-tutorials---compute-the-average/problem) | [Solution.sh](https://github.com/tgt555/HackkerRank-The-Linux-Shell-Challenges-Solutions/blob/master/Challenges/Bash/Compute%20the%20average.sh)
+| 1 |[Let's Echo!](https://www.hackerrank.com/challenges/bash-tutorials-lets-echo/problem) | [Solution.sh](Challenges/Bash/Let's%20Echo.sh)
+| 2 |[Looping and Skipping](https://www.hackerrank.com/challenges/bash-tutorials---looping-and-skipping/problem) | [Solution.sh](Challenges/Bash/Looping%20and%20Skipping.sh)
+| 3 |[A Personalized Echo](https://www.hackerrank.com/challenges/bash-tutorials---a-personalized-echo/problem) | [Solution.sh](Challenges/Bash/A%20Personalized%20Echo.sh)
+| 4 |[Looping with numbers](https://www.hackerrank.com/challenges/bash-tutorials---looping-with-numbers/problem) |  [Solution.sh](Challenges/Bash/Looping%20with%20Numbers.sh)
+| 5 |[The World of Numbers](https://www.hackerrank.com/challenges/bash-tutorials---the-world-of-numbers/problem) | [Solution.sh](Challenges/Bash/The%20World%20of%20Numbers.sh)
+| 6 |[Comparing Numbers](https://www.hackerrank.com/challenges/bash-tutorials---comparing-numbers/problem) | [Solution.sh](Challenges/Bash/Comparing%20Numbers.sh)
+| 7 |[Getting started with conditionals](https://www.hackerrank.com/challenges/bash-tutorials---getting-started-with-conditionals/problem) | [Solution.sh](Challenges/Bash/Getting%20started%20with%20conditionals.sh)
+| 8 |[More on Conditionals](https://www.hackerrank.com/challenges/bash-tutorials---more-on-conditionals/problem) | [Solution.sh](Challenges/Bash/More%20on%20Conditionals.sh)
+| 9 |[Arithmetic Operations](https://www.hackerrank.com/challenges/bash-tutorials---arithmetic-operations/problem) | [Solution.sh](Challenges/Bash/Arithmetic%20Operations.sh)
+| 10|[Compute the Average](https://www.hackerrank.com/challenges/bash-tutorials---compute-the-average/problem) | [Solution.sh](Challenges/Bash/Compute%20the%20average.sh)
 | 11|[Functions and Fractals - Recursive Trees - Bash!](https://www.hackerrank.com/challenges/fractal-trees-all/problem) | PENDING
 
 ## Text Processing
@@ -62,8 +62,8 @@ Solutions and related resources for the Linux Shell Challenges on HackerRank
 |27|['Uniq' Command #3](https://www.hackerrank.com/challenges/text-processing-in-linux-the-uniq-command-3/problem)| [Solution](https://github.com/Thomas-George-T/HackerRank-The-Linux-Shell-Challenges-Solutions/blob/master/Challenges/Text%20Processing/'Uniq'%20Command%20%233.sh) |
 |28|['Uniq' Command #4](https://www.hackerrank.com/challenges/text-processing-in-linux-the-uniq-command-4/problem) | [Solution](https://github.com/Thomas-George-T/HackerRank-The-Linux-Shell-Challenges-Solutions/blob/master/Challenges/Text%20Processing/'Uniq'%20Command%20%234.sh) |
 |29|[Paste - 1](https://www.hackerrank.com/challenges/paste-1/problem) | [Solution](Challenges/Text%20Processing/Paste%20-%201.sh) |
-|30|[Paste - 2](https://www.hackerrank.com/challenges/paste-2/problem) | [Solution](Challenges/Test%20Processing/Paste%20-%202.sh) |	
+|30|[Paste - 2](https://www.hackerrank.com/challenges/paste-2/problem) | [Solution](Challenges/Text%20Processing/Paste%20-%202.sh) |	
 
 ## References 
 
-* [Resources,Tutorials & Relevant Materials](https://github.com/tgt555/HackkerRank-The-Linux-Shell-Challenges-Solutions/blob/master/Resources.md)
+* [Resources,Tutorials & Relevant Materials](Resources.md)
