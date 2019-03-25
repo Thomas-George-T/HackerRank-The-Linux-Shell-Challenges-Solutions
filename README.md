@@ -62,7 +62,7 @@ Solutions and related resources for the Linux Shell Challenges on HackerRank
 |27|['Uniq' Command #3](https://www.hackerrank.com/challenges/text-processing-in-linux-the-uniq-command-3/problem)| [Solution](https://github.com/Thomas-George-T/HackerRank-The-Linux-Shell-Challenges-Solutions/blob/master/Challenges/Text%20Processing/'Uniq'%20Command%20%233.sh) |
 |28|['Uniq' Command #4](https://www.hackerrank.com/challenges/text-processing-in-linux-the-uniq-command-4/problem) | [Solution](https://github.com/Thomas-George-T/HackerRank-The-Linux-Shell-Challenges-Solutions/blob/master/Challenges/Text%20Processing/'Uniq'%20Command%20%234.sh) |
 |29|[Paste - 1](https://www.hackerrank.com/challenges/paste-1/problem) | [Solution](Challenges/Text%20Processing/Paste%20-%201.sh) |
-|30|[Paste - 2](https://www.hackerrank.com/challenges/paste-2/problem) | [Solution]() |	
+|30|[Paste - 2](https://www.hackerrank.com/challenges/paste-2/problem) | [Solution](Challenges/Test%20Processing/Paste%20-%202.sh) |	
 
 ## References 
 
