@@ -77,7 +77,8 @@ Solutions and related resources for the Linux Shell Challenges on HackerRank
 |4|[Concatenate an array with itself](https://www.hackerrank.com/challenges/bash-tutorials-concatenate-an-array-with-itself/problem) | [Solution](Challenges/Arrays%20in%20Bash/Concatenate%20an%20array%20with%20itself.sh) |
 |5|[Display an element of an array](https://www.hackerrank.com/challenges/bash-tutorials-display-the-third-element-of-an-array/problem) | [Solution](Challenges/Arrays%20in%20Bash/Display%20an%20element%20of%20an%20array.sh) |
 |6|[Count the number of elements in an Array](https://www.hackerrank.com/challenges/bash-tutorials-count-the-number-of-elements-in-an-array/problem) | [Solution](Challenges/Arrays%20in%20Bash/Count%20the%20number%20of%20elements%20in%20an%20Array.sh) |
-|7|[Remove the First Capital Letter from Each Element](https://www.hackerrank.com/challenges/bash-tutorials-remove-the-first-capital-letter-from-each-array-element/problem) | [Solution]() |
+|7|[Remove the First Capital Letter from Each Element](https://www.hackerrank.com/challenges/bash-tutorials-remove-the-first-capital-letter-from-each-array-element/problem) | [Solution](Challenges/Arrays%20in%20Bash/Remove%20the%20First%20Capital%20Letter%20from%20Each%20Element.sh) |
+|8|[Lonely Integer - Bash!](https://www.hackerrank.com/challenges/lonely-integer-2/problem) | [Solution]() |
 
 ## References 
 
