@@ -16,3 +16,6 @@
 * [Uniq](https://www.thegeekstuff.com/2013/05/uniq-command-examples/)
 * [Paste video](https://www.youtube.com/watch?v=DCJPFjS_vss)
 * [Paste](http://www.theunixschool.com/2012/07/10-examples-of-paste-command-usage-in.html)
+
+## Arrays in Bash
+* [Array Tutorial](https://www.thegeekstuff.com/2010/06/bash-array-tutorial/)

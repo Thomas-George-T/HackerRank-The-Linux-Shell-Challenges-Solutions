@@ -66,6 +66,14 @@ Solutions and related resources for the Linux Shell Challenges on HackerRank
 |31|[Paste - 3](https://www.hackerrank.com/challenges/paste-3/problem) | [Solution](Challenges/Text%20Processing/Paste%20-%203.sh) |
 |32|[Paste - 4](https://www.hackerrank.com/challenges/paste-4/problem) | [Solution](Challenges/Text%20Processing/Paste%20-%204.sh) |
 
+
+## Arrays in Bash
+
+| Number | Challenge | Solutions |
+|:------:|-----------|:---------:|
+|1|[Read in an Array](https://www.hackerrank.com/challenges/bash-tutorials-read-in-an-array/problem) | [Solution]
+
+
 ## References 
 
 * [Resources,Tutorials & Relevant Materials](Resources.md)
