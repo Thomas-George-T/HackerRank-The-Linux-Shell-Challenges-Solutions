@@ -80,6 +80,13 @@ Solutions and related resources for the Linux Shell Challenges on HackerRank
 |7|[Remove the First Capital Letter from Each Element](https://www.hackerrank.com/challenges/bash-tutorials-remove-the-first-capital-letter-from-each-array-element/problem) | [Solution](Challenges/Arrays%20in%20Bash/Remove%20the%20First%20Capital%20Letter%20from%20Each%20Element.sh) |
 |8|[Lonely Integer - Bash!](https://www.hackerrank.com/challenges/lonely-integer-2/problem) | [Solution](Challenges/Arrays%20in%20Bash/Lonely%20Integer%20-%20Bash!.sh) |
 
+## Grep Sed Awk
+
+| Number | Challenge | Solutions |
+|:------:|-----------|:---------:|
+|1|['Grep' #1](https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-1/problem) | [Solution]() |
+
+
 ## References 
 
 * [Resources,Tutorials & Relevant Materials](Resources.md)
