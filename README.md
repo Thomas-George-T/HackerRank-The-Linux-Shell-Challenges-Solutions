@@ -71,7 +71,9 @@ Solutions and related resources for the Linux Shell Challenges on HackerRank
 
 | Number | Challenge | Solutions |
 |:------:|-----------|:---------:|
-|1|[Read in an Array](https://www.hackerrank.com/challenges/bash-tutorials-read-in-an-array/problem) | [Solution]
+|1|[Read in an Array](https://www.hackerrank.com/challenges/bash-tutorials-read-in-an-array/problem) | [Solution](Challenges/Arrays%20in%20Bash/Read%20in%20an%20Array.sh) |
+|2|[Slice an Array](https://www.hackerrank.com/challenges/bash-tutorials-slice-an-array/problem) | [Solution]() |
+
 
 
 ## References 
