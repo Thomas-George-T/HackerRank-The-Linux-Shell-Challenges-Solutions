@@ -74,7 +74,8 @@ Solutions and related resources for the Linux Shell Challenges on HackerRank
 |1|[Read in an Array](https://www.hackerrank.com/challenges/bash-tutorials-read-in-an-array/problem) | [Solution](Challenges/Arrays%20in%20Bash/Read%20in%20an%20Array.sh) |
 |2|[Slice an Array](https://www.hackerrank.com/challenges/bash-tutorials-slice-an-array/problem) | [Solution](Challenges/Arrays%20in%20Bash/Slice%20an%20Array.sh) |
 |3|[Filter an Array with Patterns](https://www.hackerrank.com/challenges/bash-tutorials-filter-an-array-with-patterns/problem) | [Solution](Challenges/Arrays%20in%20Bash/Filter%20an%20Array%20with%20Patterns.sh) |
-|4|[Concatenate an array with itself](https://www.hackerrank.com/challenges/bash-tutorials-concatenate-an-array-with-itself/problem) | [Solution]() |
+|4|[Concatenate an array with itself](https://www.hackerrank.com/challenges/bash-tutorials-concatenate-an-array-with-itself/problem) | [Solution](Challenges/Arrays%20in%20Bash/Concatenate%20an%20array%20with%20itself.sh) |
+|5|[Display an element of an array](https://www.hackerrank.com/challenges/bash-tutorials-display-the-third-element-of-an-array/problem) | [Solution]() |
 
 ## References 
 
