@@ -84,7 +84,9 @@ Solutions and related resources for the Linux Shell Challenges on HackerRank
 
 | Number | Challenge | Solutions |
 |:------:|-----------|:---------:|
-|1|['Grep' #1](https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-1/problem) | [Solution]() |
+|1|['Grep' #1](https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-1/problem) | [Solution](Challenges/Grep%20Sed%20Awk/'Grep'%20%231.sh) |
+|2|['Grep' #2](https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-2/problem) | [Solution](Challenges/Grep%20Sed%20Awk/'Grep'%20%232.sh) |
+|3|['Grep' #3](https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-3/problem) | [Solution]() |
 
 
 ## References 
