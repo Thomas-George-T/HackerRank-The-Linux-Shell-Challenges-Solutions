@@ -93,6 +93,7 @@ Solutions and related resources for the Linux Shell Challenges on HackerRank
 |7|['Sed' command #2](https://www.hackerrank.com/challenges/text-processing-in-linux-the-sed-command-2/problem) | [Solution](Challenges/Grep%20Sed%20Awk/'Sed'%20command%20%232.sh) |
 |8|['Sed' command #3](https://www.hackerrank.com/challenges/text-processing-in-linux-the-sed-command-3/problem) | [Solution](Challenges/Grep%20Sed%20Awk/'Sed'%20command%20%233.sh) |
 |9|['Sed' command #4](https://www.hackerrank.com/challenges/text-processing-in-linux-the-sed-command-4/problem) | [Solution](Challenges/Grep%20Sed%20Awk/'Sed'%20command%20%234.sh) |
+|9|['Sed' command #4](https://www.hackerrank.com/challenges/text-processing-in-linux-the-sed-command-5/problem) | [Solution](Challenges/Grep%20Sed%20Awk/'Sed'%20command%20%235.sh) |
 
 
 ## References 
