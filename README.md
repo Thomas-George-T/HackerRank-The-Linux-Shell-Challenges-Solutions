@@ -11,7 +11,13 @@
 </p>
 
 ## Description
-Solutions and related resources for the Linux Shell Challenges on HackerRank
+Solutions to all the easy, medium and hard challenges compiled with related learning resources for the Linux Shell Challenges on HackerRank. 
+
+Domains included: 
+* [Bash Challenges](https://github.com/Thomas-George-T/HackerRank-The-Linux-Shell-Challenges-Solutions#bash-challenges)
+* [Text Processing](https://github.com/Thomas-George-T/HackerRank-The-Linux-Shell-Challenges-Solutions#text-processing)
+* [Arrays in Bash](https://github.com/Thomas-George-T/HackerRank-The-Linux-Shell-Challenges-Solutions#arrays-in-bash)
+* [Grep Sed Awk](https://github.com/Thomas-George-T/HackerRank-The-Linux-Shell-Challenges-Solutions#grep-sed-awk)
 
 ## Bash Challenges
 
@@ -93,9 +99,9 @@ Solutions and related resources for the Linux Shell Challenges on HackerRank
 |7|['Sed' command #2](https://www.hackerrank.com/challenges/text-processing-in-linux-the-sed-command-2/problem) | [Solution](Challenges/Grep%20Sed%20Awk/'Sed'%20command%20%232.sh) |
 |8|['Sed' command #3](https://www.hackerrank.com/challenges/text-processing-in-linux-the-sed-command-3/problem) | [Solution](Challenges/Grep%20Sed%20Awk/'Sed'%20command%20%233.sh) |
 |9|['Sed' command #4](https://www.hackerrank.com/challenges/sed-command-4/problem) | [Solution](Challenges/Grep%20Sed%20Awk/'Sed'%20command%20%234.sh) |
-|9|['Sed' command #5](https://www.hackerrank.com/challenges/sed-command-5/problem) | [Solution](Challenges/Grep%20Sed%20Awk/'Sed'%20command%20%235.sh) |
+|10|['Sed' command #5](https://www.hackerrank.com/challenges/sed-command-5/problem) | [Solution](Challenges/Grep%20Sed%20Awk/'Sed'%20command%20%235.sh) |
 
 
 ## References 
 
-* [Resources,Tutorials & Relevant Materials](Resources.md)
+[Resources, Tutorials & Relevant Materials](Resources.md)
