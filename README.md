@@ -101,6 +101,8 @@ Domains included:
 |9|['Sed' command #4](https://www.hackerrank.com/challenges/sed-command-4/problem) | [Solution](Challenges/Grep%20Sed%20Awk/'Sed'%20command%20%234.sh) |
 |10|['Sed' command #5](https://www.hackerrank.com/challenges/sed-command-5/problem) | [Solution](Challenges/Grep%20Sed%20Awk/'Sed'%20command%20%235.sh) |
 
+## Featured in
+- [lib4dev.in](http://www.lib4dev.in/info/Thomas-George-T/HackerRank-The-Linux-Shell-Challenges-Solutions/117837470)
 
 ## References 
 
