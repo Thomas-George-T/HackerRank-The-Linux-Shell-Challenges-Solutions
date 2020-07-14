@@ -1,6 +1,7 @@
 ![GitHub](https://img.shields.io/github/license/Thomas-George-T/HackerRank-The-Linux-Shell-Challenges-Solutions.svg)
 ![GitHub top language](https://img.shields.io/github/languages/top/Thomas-George-T/HackerRank-The-Linux-Shell-Challenges-Solutions.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Thomas-George-T/HackerRank-The-Linux-Shell-Challenges-Solutions.svg)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Thomas-George-T.HackerRank-The-Linux-Shell-Challenges-Solutions)
 
 <p align="center">  
 	<br>
