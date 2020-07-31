@@ -2,3 +2,6 @@
 # Previous solution: paste -s -d"\\t"
 # The delimiter option is not necessary as tab is the delimiter of paste by default
 paste -s 
+
+#Can also be solved using the following method:
+# tr $'\n' ' '
