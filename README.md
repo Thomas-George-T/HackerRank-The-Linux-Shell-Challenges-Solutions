@@ -101,6 +101,10 @@ Domains included:
 |8|['Sed' command #3](https://www.hackerrank.com/challenges/text-processing-in-linux-the-sed-command-3/problem) | [Solution](Challenges/Grep%20Sed%20Awk/'Sed'%20command%20%233.sh) |
 |9|['Sed' command #4](https://www.hackerrank.com/challenges/sed-command-4/problem) | [Solution](Challenges/Grep%20Sed%20Awk/'Sed'%20command%20%234.sh) |
 |10|['Sed' command #5](https://www.hackerrank.com/challenges/sed-command-5/problem) | [Solution](Challenges/Grep%20Sed%20Awk/'Sed'%20command%20%235.sh) |
+|11|['Awk' - 1](https://www.hackerrank.com/challenges/awk-1/problem) | [Solution](Challenges/Grep%20Sed%20Awk/'Awk'%20-%201.sh) |
+|12|['Awk' - 2](https://www.hackerrank.com/challenges/awk-2/problem) | [Solution](Challenges/Grep%20Sed%20Awk/'Awk'%20-%202.sh) |
+|13|['Awk' - 3](https://www.hackerrank.com/challenges/awk-3/problem) | [Solution](Challenges/Grep%20Sed%20Awk/'Awk'%20-%203.sh) |
+|14|['Awk' - 4](https://www.hackerrank.com/challenges/awk-4/problem) | [Solution](Challenges/Grep%20Sed%20Awk/'Awk'%20-%204.sh) |
 
 ## Featured in
 - [lib4dev.in](http://www.lib4dev.in/info/Thomas-George-T/HackerRank-The-Linux-Shell-Challenges-Solutions/117837470)
