@@ -34,7 +34,7 @@ Domains included:
 | 8 |[More on Conditionals](https://www.hackerrank.com/challenges/bash-tutorials---more-on-conditionals/problem) | [Solution.sh](Challenges/Bash/More%20on%20Conditionals.sh)
 | 9 |[Arithmetic Operations](https://www.hackerrank.com/challenges/bash-tutorials---arithmetic-operations/problem) | [Solution.sh](Challenges/Bash/Arithmetic%20Operations.sh)
 | 10|[Compute the Average](https://www.hackerrank.com/challenges/bash-tutorials---compute-the-average/problem) | [Solution.sh](Challenges/Bash/Compute%20the%20average.sh)
-| 11|[Functions and Fractals - Recursive Trees - Bash!](https://www.hackerrank.com/challenges/fractal-trees-all/problem) | PENDING
+| 11|[Functions and Fractals - Recursive Trees - Bash!](https://www.hackerrank.com/challenges/fractal-trees-all/problem) | [Solution.sh](Challenges/Bash/Functions%20and%20Fractals%20-%20Recursive%20Trees%20-%20Bash!.sh)
 
 ## Text Processing
 
