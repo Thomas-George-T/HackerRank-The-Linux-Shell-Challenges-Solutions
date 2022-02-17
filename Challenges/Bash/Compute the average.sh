@@ -10,3 +10,9 @@ do
    ctr=$((ctr - 1))     
 done
 printf "%.3f\n" `echo "$sum/$num" | bc -l`
+
+
+OR
+
+read n
+printf "%.3f" $(echo "("$(cat)")/$n" | tr ' ' '+' | bc -l)
