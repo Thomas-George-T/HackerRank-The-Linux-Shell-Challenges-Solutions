@@ -1,18 +1,10 @@
 #!/bin/bash
 #Easier way is to do using for loop
-read num
-ctr=$num
+read N
 sum=0
-while [ $ctr -gt 0 ]
-do
-   read x
-   sum=$((sum + x))
-   ctr=$((ctr - 1))     
+for ((i=0; i<N; i++));  do
+    read num 
+    sum=$((sum + num))
 done
-printf "%.3f\n" `echo "$sum/$num" | bc -l`
-
-
-OR
-
-read n
-printf "%.3f" $(echo "("$(cat)")/$n" | tr ' ' '+' | bc -l)
+avg=$(echo "scale=4; $sum / $N" | bc)
+printf "%0.3f" $avg
